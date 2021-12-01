@@ -1,0 +1,10 @@
+OpenFL tutorial: https://github.com/intel/openfl/blob/develop/openfl-tutorials/Federated_Keras_MNIST_Tutorial.ipynb
+
+https://flower.dev/blog/2021-01-14-single-machine-simulation-of-federated-learning-systems
+
+https://github.com/adap/flower/tree/main/examples/quickstart_tensorflow
+
+https://github.com/alexcaselli/Federated-Learning-for-Human-Mobility-Models/blob/main/Code/NYC_FL.ipynb
+
+https://colab.research.google.com/github/tensorflow/federated/blob/main/docs/tutorials/federated_learning_for_image_classification.ipynb
+
